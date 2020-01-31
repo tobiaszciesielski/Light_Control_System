@@ -1,4 +1,5 @@
-# This is ninja fruit game with kinect-like controling system
+# Circuit
 ![Build status](https://raw.githubusercontent.com/tobiaszciesielski/Light_Control_System/master/circuit.jpg)
 
+# App
 ![Build status](https://raw.githubusercontent.com/tobiaszciesielski/Light_Control_System/master/app.jpg)
