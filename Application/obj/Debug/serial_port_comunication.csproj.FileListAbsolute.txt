@@ -1,0 +1,12 @@
+E:\Programowanie\C#\serial_port_comunication\bin\Debug\serial_port_comunication.exe.config
+E:\Programowanie\C#\serial_port_comunication\bin\Debug\serial_port_comunication.exe
+E:\Programowanie\C#\serial_port_comunication\bin\Debug\serial_port_comunication.pdb
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\serial_port_comunication.Properties.Resources.resources
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\serial_port_comunication.csproj.GenerateResource.cache
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\serial_port_comunication.exe
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\serial_port_comunication.pdb
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\serial_port_comunication.MainWindow.resources
+E:\Programowanie\C#\serial_port_comunication\bin\Debug\ko-KP\serial_port_comunication.resources.dll
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\serial_port_comunication.csprojAssemblyReference.cache
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\serial_port_comunication.MainWindow.ko-KP.resources
+E:\Programowanie\C#\serial_port_comunication\obj\Debug\ko-KP\serial_port_comunication.resources.dll
